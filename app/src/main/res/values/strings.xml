@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Achmad Ajie Priyajie</string>
+    <string name="business">Android Developer</string>
+    <string name="phone_number">123456789</string>
+    <string name="email_text">achmadajie74@gmail.com</string>
+    <string name="share_text">ajie@android.com</string>
+</resources>
